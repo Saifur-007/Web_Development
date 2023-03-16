@@ -1,0 +1,22 @@
+body{
+    font-family: 'Sono', sans-serif;
+}
+
+h1 , h2{
+    color: chartreuse;
+}
+p{
+    color: blue!important;
+}
+p{
+    font-size: 15px;
+    color: coral;
+}
+
+
+p span{
+    text-transform: uppercase ;
+    background-color: rgb(5, 186, 72);
+    color: rgb(0, 89, 255);
+    border-radius: 6px;
+}
